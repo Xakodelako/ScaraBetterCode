@@ -1,0 +1,26 @@
+## VOICI LA CHECKLIST DE CE QU'IL FAUT TERMINER ##
+
+1) Mode TeleOp : [ ]
+********************
+    a - Mouvement correcte et fluide du robot; [x]
+
+    b - Utilisation propre de la main;         [x]
+
+    c - Utilisation propre du bras (Manuel);   [ ]
+
+    d - Utilisation propre du bras (Boutons);  [ ]
+
+2) Mode Autonome : [ ]
+*********************
+    a - Précision totale des mouvement translationels du robot;  [x]
+
+    b - Précision directionel du robot (au degré près);          [ ]
+
+    c - Finition de l'activation auto. de la main;               [ ]
+
+    d - Codage du bras et de ses niveaux (3 étages);             [ ]
+
+
+    *Finition :
+    e - Établissement du meilleur trajet tout en marquant le     [ ]
+        plus de point en mode autonome en moins de 30 secondes;
